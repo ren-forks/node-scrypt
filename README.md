@@ -6,6 +6,6 @@ Add to your `package.json`:
 
 ```js
   "resolutions": {
-    "scrypt": "https://github.com/ren-forks/node-scrypt",
+    "scrypt": "https://github.com/ren-forks/node-scrypt"
   }
 ```
